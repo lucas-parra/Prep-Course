@@ -1,0 +1,30 @@
+body {
+  background-image: url("https://media.istockphoto.com/photos/abstract-green-background-picture-id689323732?k=20&m=689323732&s=170667a&w=0&h=kiHwXAOV5A0qEFbqDmIz72tzul2MeZH653T3qWCdIOQ=");
+  background-size: contain;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+  color: brown;
+}
+
+img {
+  width: 400px;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: brown;
+  padding: 50px;
+  border: 2px solid black;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
